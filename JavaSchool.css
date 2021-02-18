@@ -1,0 +1,106 @@
+
+  .darkmode{
+    border-radius: 50%;
+    background-color: #EDEDED;
+    color:black;
+  }
+  .lightmode{
+    border-radius: 50%;
+    background-color: black;
+    color:white;
+  }
+.top{
+height:80px;
+
+border:1px solid black;
+}
+.nav{
+height:47px;
+background-color:#19C526;
+border:1px solid black;
+}
+.menu{
+
+width:250px;
+height:900px;
+
+border:1px solid black;
+}
+.main{
+margin-top:-900px;
+margin-left:250px;
+width:1270px;
+/* height:12500px;*/
+
+
+border:1px solid black;
+}
+.java1{
+text-decoration:underline;
+color: blue;
+}
+.java2{
+text-decoration:none;
+color: black;
+}
+.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10,.p11,.p12,.p13,.p14,.p15,.p16,.p17,.p18{
+display:none;
+margin-left:10px;
+}
+.blue {
+  background-color: white;
+}
+i{
+  color:red;
+}
+p{
+  margin-left:10px;
+}
+div.scroll {
+                margin-top:10px;
+                margin-left:10px;
+                padding:4px;
+                background-color: black;
+                color:white;
+                height:300px;
+                width:1000px;
+                overflow-x: hidden;
+                overflow-x: auto;
+                overflow-y: hidden;
+                overflow-y: auto;
+                text-align:justify;
+                border:1px solid black;
+            }
+div.scroll1 {
+                margin-top:10px;
+                margin-left:10px;
+                padding:4px;
+                background-color: black;
+                color:white;
+                height:150px;
+                width:1000px;
+                overflow-x: hidden;
+                overflow-x: auto;
+                overflow-y: hidden;
+                overflow-y: auto;
+                text-align:justify;
+                border:1px solid black;
+            }
+div.scroll2 {
+                margin-top:10px;
+                margin-left:10px;
+                padding:4px;
+                background-color: black;
+                color:white;
+                height:50px;
+                width:1000px;
+                overflow-x: hidden;
+                overflow-x: auto;
+                overflow-y: hidden;
+                overflow-y: auto;
+                text-align:justify;
+                border:1px solid black;
+            }            
+unmark{
+  margin-left:10px;  
+}            
